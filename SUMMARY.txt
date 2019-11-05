@@ -1,0 +1,8 @@
+##MTCNN_Facenet
+- Identify objects based on available data
+- Accuracy of the object
+
+##Contribution
+-Nhật Quang, Hải: Chạy Và Fix Lỗi
+-Huy,Bảo, Huyền: Tìm hiểu training model
+(tải ảnh, cấu trúc file ảnh, tạo đường dẫn lưu trữ của ảnh)
